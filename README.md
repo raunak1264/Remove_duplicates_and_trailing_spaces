@@ -29,7 +29,7 @@ If you want to contribute or run the tool locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/remove-duplicates-tool.git
+   git clone https://github.com/raunak1264/remove-duplicates-tool.git
    ```
 
 2. Open the `index.html` file in your browser or set up a local server.
