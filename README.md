@@ -44,7 +44,7 @@ This tool is licensed under the [MIT License](LICENSE).
 
 ## Feedback
 
-Feel free to [open an issue](https://github.com/yourusername/remove-duplicates-tool/issues) for feedback, questions, or suggestions.
+Feel free to [open an issue]for feedback, questions, or suggestions.
 
 ---
 
