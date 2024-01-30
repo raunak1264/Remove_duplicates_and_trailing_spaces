@@ -29,8 +29,8 @@ If you want to contribute or run the tool locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/raunak1264/remove-duplicates-tool.git
-   ```
+gh repo clone raunak1264/Remove_duplicates_and_trailing_spaces
+```
 
 2. Open the `index.html` file in your browser or set up a local server.
 
@@ -50,5 +50,3 @@ Feel free to [open an issue]for feedback, questions, or suggestions.
 
 **Happy Cleaning!** ✨
 ```
-
-Remember to replace `#` with the actual URLs and update the placeholder information according to your project. Additionally, you can include more sections like "Features," "Contributing Guidelines," or "Acknowledgments" based on the specific details of your project.
