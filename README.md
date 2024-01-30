@@ -15,7 +15,7 @@ This Chrome extension allows you to remove duplicates and trailing spaces from a
 9. The cleaned list will be displayed in the output textarea.
 
 ## Screenshots
-![Popup Screenshot](screenshots/popup.png)
+![Popup Screenshot](popup.png)
 
 ## Contributing
 If you'd like to contribute to the development of this extension, please follow these steps:
