@@ -1,52 +1,31 @@
-# Remove Duplicates and Trailing Spaces
+# Chrome Extension: Remove Duplicates and Trailing Spaces
 
-A simple web tool to clean up lists by removing duplicate entries and trailing spaces. This tool is implemented using HTML and JavaScript.
+## Overview
+This Chrome extension allows you to remove duplicates and trailing spaces from a list of words or IP addresses.
 
-## Usage
+## How to Use
+1. Clone or download this repository to your computer.
+2. Open Chrome and go to `chrome://extensions/`.
+3. Enable "Developer mode" in the top right corner.
+4. Click on "Load unpacked" and select the folder containing your extension files.
+5. The extension icon will appear in the toolbar.
+6. Click on the extension icon to open the popup.
+7. Enter your list in the input textarea, with each item on a new line.
+8. Click the "Clean List" button to remove duplicates and trailing spaces.
+9. The cleaned list will be displayed in the output textarea.
 
-1. Visit the [Remove Duplicates and Trailing Spaces](#) tool.
+## Screenshots
+![Popup Screenshot](screenshots/popup.png)
 
-2. Enter your list in the provided textarea, with each item on a new line.
-
-3. Click the "Clean List" button.
-
-4. Your cleaned list, without duplicates and trailing spaces, will be displayed in the output textarea.
-
-
-## How It Works
-
-The tool processes the input list as follows:
-
-- Splits the input into an array of items.
-- Trims each item to remove leading and trailing spaces.
-- Removes duplicates using the JavaScript `Set` data structure.
-- Displays the cleaned list in the output textarea.
-
-## Development
-
-If you want to contribute or run the tool locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-gh repo clone raunak1264/Remove_duplicates_and_trailing_spaces
-```
-
-2. Open the `index.html` file in your browser or set up a local server.
-
-3. Make changes to the code as needed.
-
-4. Test your changes and submit a pull request.
+## Contributing
+If you'd like to contribute to the development of this extension, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make changes and submit a pull request.
 
 ## License
-
-This tool is licensed under the [MIT License](LICENSE).
-
-## Feedback
-
-Feel free to [open an issue]for feedback, questions, or suggestions.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Happy Cleaning!** ✨
-```
+**Made with ❤️ by Raunak kapoor*
