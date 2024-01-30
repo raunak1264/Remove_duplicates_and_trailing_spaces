@@ -1,0 +1,48 @@
+<!-- popup.html -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Remove Duplicates and Trailing Spaces</title>
+    <style>
+        /* popup.css */
+        body {
+            width: 200px;
+            height: 200px;
+            /* Set the height to make it a square shape */
+            padding: 10px;
+            overflow: auto;
+            /* Add overflow to enable scrolling if needed */
+        }
+
+        textarea {
+            width: 100%;
+            height: 80%;
+            /* Adjust the height as needed */
+            margin-bottom: 10px;
+        }
+
+        button {
+            width: 100%;
+        }
+
+        #outputText {
+            height: 100%;
+            /* Adjust the height as needed */
+            margin-top: 10px;
+            overflow: auto;
+            /* Add overflow to enable scrolling if needed */
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Remove Duplicates and Trailing Spaces</h1>
+    <textarea id="inputText" rows="10" placeholder="Enter your list here, each item on a new line."></textarea>
+    <button id="cleanButton">Clean List</button>
+    <textarea id="outputText" rows="10" readonly placeholder="Your cleaned list will appear here."></textarea>
+    <div id="footer">Made by Raunak Kapoor</div>
+    <script src="popup.js"></script>
+</body>
+
+</html>

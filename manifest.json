@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "CleanList Extension",
+  "version": "1.0",
+  "description": "Remove duplicates and trailing spaces from a list.",
+  "action": {
+    "default_icon": {
+      "48": "icon.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
